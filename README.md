@@ -61,7 +61,7 @@ LifeFlow 包含以下五个核心模块：
     *   `mobile_scanner`: 扫码功能
     *   `home_widget`: 桌面小组件
 
-## � 下载安装 (Download)
+## 📥 下载安装 (Download)
 
 请前往 **[Releases 页面](https://github.com/ningyou8023/lifeflow/releases)** 下载最新版本的 Android 安装包 (`.apk`)。
 
