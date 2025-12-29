@@ -2,8 +2,6 @@
 
 LifeFlow 是一款集物品管理、情绪记录、专注辅助、隐私存储、订阅管理于一体的个人生活辅助工具。旨在通过极简的设计和隐私优先的原则，帮助用户更好地管理生活琐事。
 
-![Banner](screenshots/banner.png)
-
 ## ✨ 核心功能 (Features)
 
 LifeFlow 包含以下五个核心模块：
@@ -35,13 +33,15 @@ LifeFlow 包含以下五个核心模块：
 
 ## 📱 应用截图 (Screenshots)
 
-| 首页 (Home) | 物品管理 (Pantry) | 情绪日记 (Journal) |
-|:---:|:---:|:---:|
-| ![Home](screenshots/home.png) | ![Pantry](screenshots/pantry.png) | ![Journal](screenshots/journal.png) |
+| 物品管理 (Pantry) | 情绪日记 (Journal) |
+|:---:|:---:|
+| ![Pantry](screenshots/pantry.png) | ![Journal](screenshots/journal.png) |
 
-| 专注模式 (Focus) | 隐私钱包 (Wallet) | 订阅管理 (Subs) |
-|:---:|:---:|:---:|
-| ![Focus](screenshots/focus.png) | ![Wallet](screenshots/wallet.png) | ![Subs](screenshots/subs.png) |
+| 专注模式 (Focus) | 订阅管理 (Subs) |
+|:---:|:---:|
+| ![Focus](screenshots/focus.png) | ![Subs](screenshots/subs.png) |
+
+> **注**：隐私钱包 (Wallet) 页面因系统安全机制（禁止截屏），故无法展示截图。
 
 ## 🛠️ 技术栈 (Tech Stack)
 
