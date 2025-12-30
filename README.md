@@ -41,7 +41,26 @@ LifeFlow 包含以下五个核心模块：
 |:---:|:---:|
 | ![Focus](screenshots/focus.png) | ![Subs](screenshots/subs.png) |
 
+| 外观设置 (Appearance) | AI 设置 (AI Config) |
+|:---:|:---:|
+| ![Appearance](screenshots/appearance.png) | ![AI Settings](screenshots/ai_settings.png) |
+
+| 通知中心 (Notifications) | 桌面小组件 (Widgets) |
+|:---:|:---:|
+| ![Notifications](screenshots/notifications.png) | ![Widgets](screenshots/widget.png) |
+
 > **注**：隐私钱包 (Wallet) 页面因系统安全机制（禁止截屏），故无法展示截图。
+
+## ⚠️ 权限与通知说明 (Permissions & Notifications)
+
+为了确保 **智能提醒** 和 **每日推送** 能够准时送达（尤其是早晨的过期提醒），请务必在 Android 手机上授予以下权限：
+
+1.  **自启动权限 (Auto-Start)**: 允许 App 在后台自动启动，防止被系统查杀。
+2.  **电池优化白名单 (Ignore Battery Optimization)**: 设置为"无限制"或"允许后台高耗电"，防止系统为了省电而延迟或取消定时闹钟。
+3.  **通知权限 (Post Notifications)**: 允许 App 发送通知栏消息。
+4.  **精确闹钟权限 (Schedule Exact Alarm)**: 确保在设定的具体时间（如 9:00）准时提醒，而不是被系统延迟到"维护窗口"期。
+
+> 💡 **提示**: 如果您发现通知不准时或不弹窗，请检查手机管家/设置中的上述权限是否已开启。
 
 ## 🛠️ 技术栈 (Tech Stack)
 
