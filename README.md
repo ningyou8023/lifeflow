@@ -1,6 +1,6 @@
 # LifeFlow (个人生活流)
 
-LifeFlow 是一款集物品管理、情绪记录、专注辅助、隐私存储、订阅管理于一体的个人生活辅助工具。LifeFlow 迎来全新升级，采用现代化的 Material Design 3 设计语言，界面精致优雅，交互流畅自然。旨在通过极简的美学和隐私优先的原则，帮助用户更好地管理生活琐事。
+LifeFlow 是一款集物品管理、情绪记录、专注辅助、隐私存储、订阅管理于一体的个人生活辅助工具。LifeFlow 迎来 v1.0.4 全新升级，UI/UX 全面焕新！采用现代化的 Material Design 3 设计语言，界面精致优雅，交互流畅自然。新增**首页概览**，优化核心模块布局，旨在通过极简的美学和隐私优先的原则，帮助用户更好地管理生活琐事。
 
 ## ✨ 核心功能 (Features)
 
@@ -45,21 +45,25 @@ LifeFlow 包含以下五个核心模块：
 
 ## 📱 应用截图 (Screenshots)
 
-| 物品管理 (Pantry) | 情绪日记 (Journal) |
+| 首页 (Home) | 物品管理 (Pantry) |
 |:---:|:---:|
-| ![Pantry](screenshots/pantry.png) | ![Journal](screenshots/journal.png) |
+| ![Home](screenshots/home.png) | ![Pantry](screenshots/pantry.png) |
 
-| 专注模式 (Focus) | 订阅管理 (Subs) |
+| 情绪日记 (Journal) | 专注模式 (Focus) |
 |:---:|:---:|
-| ![Focus](screenshots/focus.png) | ![Subs](screenshots/subs.png) |
+| ![Journal](screenshots/journal.png) | ![Focus](screenshots/focus.png) |
 
-| 外观设置 (Appearance) | AI 设置 (AI Config) |
+| 订阅管理 (Subs) | 外观设置 (Appearance) |
 |:---:|:---:|
-| ![Appearance](screenshots/appearance.png) | ![AI Settings](screenshots/ai_settings.png) |
+| ![Subs](screenshots/subs.png) | ![Appearance](screenshots/appearance.png) |
 
-| 通知中心 (Notifications) | 桌面小组件 (Widgets) |
+| AI 设置 (AI Config) | 通知中心 (Notifications) |
 |:---:|:---:|
-| ![Notifications](screenshots/notifications.png) | ![Widgets](screenshots/widget.png) |
+| ![AI Settings](screenshots/ai_settings.png) | ![Notifications](screenshots/notifications.png) |
+
+| 桌面小组件 (Widgets) | |
+|:---:|:---:|
+| ![Widgets](screenshots/widget.png) | |
 
 > **注**：隐私钱包 (Wallet) 页面因系统安全机制（禁止截屏），故无法展示截图。
 
